@@ -1,0 +1,2 @@
+# git-trek
+Generic repository
